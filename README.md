@@ -1,6 +1,6 @@
 # Bug Localization Model in Source Code Using Ontologies
 
-[![DOI](https://img.shields.io/badge/DOI-10.23919%2FCISTI58278.2023.10212057-blue)](https://doi.org/10.1109/ACCESS.2023.3313598)
+[![DOI](https://img.shields.io/badge/10.1109%2FACCESS.2023.3313598-blue)](https://doi.org/10.1109/ACCESS.2023.3313598)
 [![Citação BibTeX](https://img.shields.io/badge/Citação-BibTeX-yellow)](#bibtex-citation)
 [![Lattes CNPq](https://img.shields.io/badge/Lattes-CNPq-brightgreen)](http://lattes.cnpq.br/7754813473705418)
 [![Google Acadêmico](https://img.shields.io/badge/Google-Acadêmico-red)](https://scholar.google.com.br/citations?user=NSFOPPAAAAAJ)
